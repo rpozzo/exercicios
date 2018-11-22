@@ -1,4 +1,4 @@
-# Exercicio Danielo Ruby
+# Exercicio Danilo Ruby
 # exerc4.rb
 
 #funções
