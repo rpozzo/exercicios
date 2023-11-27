@@ -34,4 +34,4 @@ puts "O valor de percentagem sobre vendas foi: " + print_float(valorComissao.to_
 
 #Imprime o resultado
 totalReceber = valorComissao.to_f + pagamentoDia5.to_f + pagamentoDia20.to_f
-puts "O total que recebu foi: " + print_float(totalReceber.to_f)
+puts "O total que voce recebu foi: " + print_float(totalReceber.to_f)
